@@ -67,6 +67,6 @@ https://<your-public-url>/webhook
 ![alt text](image.png)
 
 📝 Notes
-Tasks are stored in memory (they reset if the server restarts).
-For persistence, connect to a database (SQLite, Postgres, MongoDB, etc.).
-Twilio Sandbox number is shared; use your personal number in .env for testing.
+-Tasks are stored in memory (they reset if the server restarts).
+-For persistence, connect to a database (SQLite, Postgres, MongoDB, etc.).
+-Twilio Sandbox number is shared; use your personal number in .env for testing.
